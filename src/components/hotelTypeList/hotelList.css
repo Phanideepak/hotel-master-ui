@@ -1,0 +1,29 @@
+.hotelList{
+    width: 100%;
+    display: flex;
+    max-width: 1024px;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.hotelListItem{
+    flex: 1;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.hotelListImage{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.hotelListTitle > h1{
+    font-size: 18px;
+}
+
+.hotelListTitle > h2{
+    font-size: 14px;
+    font-weight: 300;
+}
