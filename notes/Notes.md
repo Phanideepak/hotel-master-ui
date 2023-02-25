@@ -1,0 +1,1 @@
+Note: This project is meant for learning basics in react JS. 
