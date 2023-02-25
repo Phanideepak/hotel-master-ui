@@ -11,6 +11,10 @@ React js commands:
 4.   npm install react-router-dom
 5.   Visual studio code short cut for creating react component: rafce
 6.   React Date Range
+7.   
+8. 
+9. 
+10. 
 
 
 CSS important points:
