@@ -3,7 +3,8 @@ External library dependency:
 2. npm i --save @fortawesome/free-solid-svg-icons
 3. npm i --save @fortawesome/free-regular-svg-icons
 4. npm i --save @fortawesome/react-fontawesome@latest
-5. npx install react-date-range
+5. npm install react-date-range
+6. npm install date-fns
 
 
 Project Structure: 
