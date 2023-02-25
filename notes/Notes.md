@@ -1,5 +1,8 @@
 Note: This project is meant for learning basics in react JS. 
 
+React Concepts:
+1. React Router Dom
+
 React js commands:
 
 1.   Create React App: npx create-app
@@ -41,5 +44,5 @@ CSS important points:
 
     padding:10px;
         all four paddings are 10px
-        
+
 4.    
