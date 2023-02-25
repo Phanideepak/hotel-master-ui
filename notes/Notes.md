@@ -11,7 +11,7 @@ React js commands:
 4.   npm install react-router-dom
 5.   Visual studio code short cut for creating react component: rafce
 6.   React Date Range
-7.   
+7.   Use Location is used to return data related to URL route navigation.
 8. 
 9. 
 10. 
